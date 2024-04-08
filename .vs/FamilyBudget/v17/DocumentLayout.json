@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "L:\\ITStep\\CourseWork\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0414\u043E\u043C\u0430\u0448\u043D\u0456\u0439 \u0411\u044E\u0434\u0436\u0435\u0442\\CourseHomeBudget\\FamilyWalletGood\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC61F23C-96CE-4593-82D9-C2789C4D8C77}|WFGunaFamilyWallet\\FamilyBudget.csproj|l:\\itstep\\coursework\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430 \u0434\u043E\u043C\u0430\u0448\u043D\u0456\u0439 \u0431\u044E\u0434\u0436\u0435\u0442\\coursehomebudget\\familywalletgood\\wfgunafamilywallet\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC61F23C-96CE-4593-82D9-C2789C4D8C77}|WFGunaFamilyWallet\\FamilyBudget.csproj|solutionrelative:wfgunafamilywallet\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC61F23C-96CE-4593-82D9-C2789C4D8C77}|WFGunaFamilyWallet\\FamilyBudget.csproj|L:\\ITStep\\CourseWork\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0414\u043E\u043C\u0430\u0448\u043D\u0456\u0439 \u0411\u044E\u0434\u0436\u0435\u0442\\CourseHomeBudget\\FamilyWalletGood\\wfgunafamilywallet\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC61F23C-96CE-4593-82D9-C2789C4D8C77}|WFGunaFamilyWallet\\FamilyBudget.csproj|solutionrelative:wfgunafamilywallet\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC61F23C-96CE-4593-82D9-C2789C4D8C77}|WFGunaFamilyWallet\\FamilyBudget.csproj|L:\\ITStep\\CourseWork\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0414\u043E\u043C\u0430\u0448\u043D\u0456\u0439 \u0411\u044E\u0434\u0436\u0435\u0442\\CourseHomeBudget\\FamilyWalletGood\\wfgunafamilywallet\\controls\\ucsupport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC61F23C-96CE-4593-82D9-C2789C4D8C77}|WFGunaFamilyWallet\\FamilyBudget.csproj|solutionrelative:wfgunafamilywallet\\controls\\ucsupport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC61F23C-96CE-4593-82D9-C2789C4D8C77}|WFGunaFamilyWallet\\FamilyBudget.csproj|L:\\ITStep\\CourseWork\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0414\u043E\u043C\u0430\u0448\u043D\u0456\u0439 \u0411\u044E\u0434\u0436\u0435\u0442\\CourseHomeBudget\\FamilyWalletGood\\wfgunafamilywallet\\childform\\addformuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC61F23C-96CE-4593-82D9-C2789C4D8C77}|WFGunaFamilyWallet\\FamilyBudget.csproj|solutionrelative:wfgunafamilywallet\\childform\\addformuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC61F23C-96CE-4593-82D9-C2789C4D8C77}|WFGunaFamilyWallet\\FamilyBudget.csproj|L:\\ITStep\\CourseWork\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0414\u043E\u043C\u0430\u0448\u043D\u0456\u0439 \u0411\u044E\u0434\u0436\u0435\u0442\\CourseHomeBudget\\FamilyWalletGood\\wfgunafamilywallet\\childform\\addformuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC61F23C-96CE-4593-82D9-C2789C4D8C77}|WFGunaFamilyWallet\\FamilyBudget.csproj|solutionrelative:wfgunafamilywallet\\childform\\addformuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC61F23C-96CE-4593-82D9-C2789C4D8C77}|WFGunaFamilyWallet\\FamilyBudget.csproj|L:\\ITStep\\CourseWork\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0414\u043E\u043C\u0430\u0448\u043D\u0456\u0439 \u0411\u044E\u0434\u0436\u0435\u0442\\CourseHomeBudget\\FamilyWalletGood\\wfgunafamilywallet\\controls\\ucsupport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC61F23C-96CE-4593-82D9-C2789C4D8C77}|WFGunaFamilyWallet\\FamilyBudget.csproj|solutionrelative:wfgunafamilywallet\\controls\\ucsupport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC61F23C-96CE-4593-82D9-C2789C4D8C77}|WFGunaFamilyWallet\\FamilyBudget.csproj|L:\\ITStep\\CourseWork\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0414\u043E\u043C\u0430\u0448\u043D\u0456\u0439 \u0411\u044E\u0434\u0436\u0435\u0442\\CourseHomeBudget\\FamilyWalletGood\\wfgunafamilywallet\\controls\\ucsupport.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC61F23C-96CE-4593-82D9-C2789C4D8C77}|WFGunaFamilyWallet\\FamilyBudget.csproj|solutionrelative:wfgunafamilywallet\\controls\\ucsupport.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC61F23C-96CE-4593-82D9-C2789C4D8C77}|WFGunaFamilyWallet\\FamilyBudget.csproj|L:\\ITStep\\CourseWork\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0414\u043E\u043C\u0430\u0448\u043D\u0456\u0439 \u0411\u044E\u0434\u0436\u0435\u0442\\CourseHomeBudget\\FamilyWalletGood\\wfgunafamilywallet\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC61F23C-96CE-4593-82D9-C2789C4D8C77}|WFGunaFamilyWallet\\FamilyBudget.csproj|solutionrelative:wfgunafamilywallet\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC61F23C-96CE-4593-82D9-C2789C4D8C77}|WFGunaFamilyWallet\\FamilyBudget.csproj|L:\\ITStep\\CourseWork\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0414\u043E\u043C\u0430\u0448\u043D\u0456\u0439 \u0411\u044E\u0434\u0436\u0435\u0442\\CourseHomeBudget\\FamilyWalletGood\\wfgunafamilywallet\\controls\\ucstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC61F23C-96CE-4593-82D9-C2789C4D8C77}|WFGunaFamilyWallet\\FamilyBudget.csproj|solutionrelative:wfgunafamilywallet\\controls\\ucstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC61F23C-96CE-4593-82D9-C2789C4D8C77}|WFGunaFamilyWallet\\FamilyBudget.csproj|L:\\ITStep\\CourseWork\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0414\u043E\u043C\u0430\u0448\u043D\u0456\u0439 \u0411\u044E\u0434\u0436\u0435\u0442\\CourseHomeBudget\\FamilyWalletGood\\wfgunafamilywallet\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC61F23C-96CE-4593-82D9-C2789C4D8C77}|WFGunaFamilyWallet\\FamilyBudget.csproj|solutionrelative:wfgunafamilywallet\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC61F23C-96CE-4593-82D9-C2789C4D8C77}|WFGunaFamilyWallet\\FamilyBudget.csproj|L:\\ITStep\\CourseWork\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0414\u043E\u043C\u0430\u0448\u043D\u0456\u0439 \u0411\u044E\u0434\u0436\u0435\u0442\\CourseHomeBudget\\FamilyWalletGood\\wfgunafamilywallet\\controls\\uctransactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC61F23C-96CE-4593-82D9-C2789C4D8C77}|WFGunaFamilyWallet\\FamilyBudget.csproj|solutionrelative:wfgunafamilywallet\\controls\\uctransactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UCSupport.cs",
+              "DocumentMoniker": "L:\\ITStep\\CourseWork\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0414\u043E\u043C\u0430\u0448\u043D\u0456\u0439 \u0411\u044E\u0434\u0436\u0435\u0442\\CourseHomeBudget\\FamilyWalletGood\\WFGunaFamilyWallet\\Controls\\UCSupport.cs",
+              "RelativeDocumentMoniker": "WFGunaFamilyWallet\\Controls\\UCSupport.cs",
+              "ToolTip": "L:\\ITStep\\CourseWork\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0414\u043E\u043C\u0430\u0448\u043D\u0456\u0439 \u0411\u044E\u0434\u0436\u0435\u0442\\CourseHomeBudget\\FamilyWalletGood\\WFGunaFamilyWallet\\Controls\\UCSupport.cs",
+              "RelativeToolTip": "WFGunaFamilyWallet\\Controls\\UCSupport.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAqwHEAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-04-08T05:27:37.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UCSupport.cs [Design]",
+              "DocumentMoniker": "L:\\ITStep\\CourseWork\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0414\u043E\u043C\u0430\u0448\u043D\u0456\u0439 \u0411\u044E\u0434\u0436\u0435\u0442\\CourseHomeBudget\\FamilyWalletGood\\WFGunaFamilyWallet\\Controls\\UCSupport.cs",
+              "RelativeDocumentMoniker": "WFGunaFamilyWallet\\Controls\\UCSupport.cs",
+              "ToolTip": "C:\\Users\\User-K\\Desktop\\FamilyWalletGood\\WFGunaFamilyWallet\\Controls\\UCSupport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-04-08T05:27:37.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "L:\\ITStep\\CourseWork\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0414\u043E\u043C\u0430\u0448\u043D\u0456\u0439 \u0411\u044E\u0434\u0436\u0435\u0442\\CourseHomeBudget\\FamilyWalletGood\\WFGunaFamilyWallet\\models\\User.cs",
+              "RelativeDocumentMoniker": "WFGunaFamilyWallet\\models\\User.cs",
+              "ToolTip": "L:\\ITStep\\CourseWork\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0414\u043E\u043C\u0430\u0448\u043D\u0456\u0439 \u0411\u044E\u0434\u0436\u0435\u0442\\CourseHomeBudget\\FamilyWalletGood\\WFGunaFamilyWallet\\models\\User.cs",
+              "RelativeToolTip": "WFGunaFamilyWallet\\models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T05:27:37.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "L:\\ITStep\\CourseWork\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0414\u043E\u043C\u0430\u0448\u043D\u0456\u0439 \u0411\u044E\u0434\u0436\u0435\u0442\\CourseHomeBudget\\FamilyWalletGood\\WFGunaFamilyWallet\\MainForm.cs",
+              "RelativeDocumentMoniker": "WFGunaFamilyWallet\\MainForm.cs",
+              "ToolTip": "L:\\ITStep\\CourseWork\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0414\u043E\u043C\u0430\u0448\u043D\u0456\u0439 \u0411\u044E\u0434\u0436\u0435\u0442\\CourseHomeBudget\\FamilyWalletGood\\WFGunaFamilyWallet\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WFGunaFamilyWallet\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T05:27:37.805Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "L:\\ITStep\\CourseWork\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0414\u043E\u043C\u0430\u0448\u043D\u0456\u0439 \u0411\u044E\u0434\u0436\u0435\u0442\\CourseHomeBudget\\FamilyWalletGood\\WFGunaFamilyWallet\\MainForm.cs",
+              "RelativeDocumentMoniker": "WFGunaFamilyWallet\\MainForm.cs",
+              "ToolTip": "L:\\ITStep\\CourseWork\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0414\u043E\u043C\u0430\u0448\u043D\u0456\u0439 \u0411\u044E\u0434\u0436\u0435\u0442\\CourseHomeBudget\\FamilyWalletGood\\WFGunaFamilyWallet\\MainForm.cs",
+              "RelativeToolTip": "WFGunaFamilyWallet\\MainForm.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAwwBMAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T05:27:37.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UCSupport.Designer.cs",
+              "DocumentMoniker": "L:\\ITStep\\CourseWork\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0414\u043E\u043C\u0430\u0448\u043D\u0456\u0439 \u0411\u044E\u0434\u0436\u0435\u0442\\CourseHomeBudget\\FamilyWalletGood\\WFGunaFamilyWallet\\Controls\\UCSupport.Designer.cs",
+              "RelativeDocumentMoniker": "WFGunaFamilyWallet\\Controls\\UCSupport.Designer.cs",
+              "ToolTip": "L:\\ITStep\\CourseWork\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0414\u043E\u043C\u0430\u0448\u043D\u0456\u0439 \u0411\u044E\u0434\u0436\u0435\u0442\\CourseHomeBudget\\FamilyWalletGood\\WFGunaFamilyWallet\\Controls\\UCSupport.Designer.cs",
+              "RelativeToolTip": "WFGunaFamilyWallet\\Controls\\UCSupport.Designer.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAswD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-04-08T05:27:38.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddFormUser.cs [Design]",
+              "DocumentMoniker": "L:\\ITStep\\CourseWork\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0414\u043E\u043C\u0430\u0448\u043D\u0456\u0439 \u0411\u044E\u0434\u0436\u0435\u0442\\CourseHomeBudget\\FamilyWalletGood\\WFGunaFamilyWallet\\ChildForm\\AddFormUser.cs",
+              "RelativeDocumentMoniker": "WFGunaFamilyWallet\\ChildForm\\AddFormUser.cs",
+              "ToolTip": "C:\\Users\\User-K\\Desktop\\FamilyWalletGood\\WFGunaFamilyWallet\\ChildForm\\AddFormUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-08T05:27:38.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddFormUser.cs",
+              "DocumentMoniker": "L:\\ITStep\\CourseWork\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0414\u043E\u043C\u0430\u0448\u043D\u0456\u0439 \u0411\u044E\u0434\u0436\u0435\u0442\\CourseHomeBudget\\FamilyWalletGood\\WFGunaFamilyWallet\\ChildForm\\AddFormUser.cs",
+              "RelativeDocumentMoniker": "WFGunaFamilyWallet\\ChildForm\\AddFormUser.cs",
+              "ToolTip": "L:\\ITStep\\CourseWork\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0414\u043E\u043C\u0430\u0448\u043D\u0456\u0439 \u0411\u044E\u0434\u0436\u0435\u0442\\CourseHomeBudget\\FamilyWalletGood\\WFGunaFamilyWallet\\ChildForm\\AddFormUser.cs",
+              "RelativeToolTip": "WFGunaFamilyWallet\\ChildForm\\AddFormUser.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAuwIUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-08T05:27:38.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UCStatistics.cs [Design]",
+              "DocumentMoniker": "L:\\ITStep\\CourseWork\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0414\u043E\u043C\u0430\u0448\u043D\u0456\u0439 \u0411\u044E\u0434\u0436\u0435\u0442\\CourseHomeBudget\\FamilyWalletGood\\WFGunaFamilyWallet\\Controls\\UCStatistics.cs",
+              "RelativeDocumentMoniker": "WFGunaFamilyWallet\\Controls\\UCStatistics.cs",
+              "ToolTip": "C:\\Users\\User-K\\Desktop\\FamilyWalletGood\\WFGunaFamilyWallet\\Controls\\UCStatistics.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-04-08T05:27:38.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "L:\\ITStep\\CourseWork\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0414\u043E\u043C\u0430\u0448\u043D\u0456\u0439 \u0411\u044E\u0434\u0436\u0435\u0442\\CourseHomeBudget\\FamilyWalletGood\\WFGunaFamilyWallet\\models\\Transaction.cs",
+              "RelativeDocumentMoniker": "WFGunaFamilyWallet\\models\\Transaction.cs",
+              "ToolTip": "L:\\ITStep\\CourseWork\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0414\u043E\u043C\u0430\u0448\u043D\u0456\u0439 \u0411\u044E\u0434\u0436\u0435\u0442\\CourseHomeBudget\\FamilyWalletGood\\WFGunaFamilyWallet\\models\\Transaction.cs",
+              "RelativeToolTip": "WFGunaFamilyWallet\\models\\Transaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T05:27:38.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UCTransactions.cs",
+              "DocumentMoniker": "L:\\ITStep\\CourseWork\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0414\u043E\u043C\u0430\u0448\u043D\u0456\u0439 \u0411\u044E\u0434\u0436\u0435\u0442\\CourseHomeBudget\\FamilyWalletGood\\WFGunaFamilyWallet\\Controls\\UCTransactions.cs",
+              "RelativeDocumentMoniker": "WFGunaFamilyWallet\\Controls\\UCTransactions.cs",
+              "ToolTip": "L:\\ITStep\\CourseWork\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430 \u0414\u043E\u043C\u0430\u0448\u043D\u0456\u0439 \u0411\u044E\u0434\u0436\u0435\u0442\\CourseHomeBudget\\FamilyWalletGood\\WFGunaFamilyWallet\\Controls\\UCTransactions.cs",
+              "RelativeToolTip": "WFGunaFamilyWallet\\Controls\\UCTransactions.cs",
+              "ViewState": "AQIAAOkAAAAAAAAAAAAAAKAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-04-08T05:27:38.146Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

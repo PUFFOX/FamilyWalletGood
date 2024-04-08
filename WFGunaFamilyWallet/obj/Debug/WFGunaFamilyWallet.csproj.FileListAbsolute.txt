@@ -1,0 +1,321 @@
+L:\ITStep\LECRURE\Family Budget\CousreWork\WFGunaFamilyWallet\WFGunaFamilyWallet\bin\Debug\WFGunaFamilyWallet.exe.config
+L:\ITStep\LECRURE\Family Budget\CousreWork\WFGunaFamilyWallet\WFGunaFamilyWallet\bin\Debug\WFGunaFamilyWallet.exe
+L:\ITStep\LECRURE\Family Budget\CousreWork\WFGunaFamilyWallet\WFGunaFamilyWallet\bin\Debug\WFGunaFamilyWallet.pdb
+L:\ITStep\LECRURE\Family Budget\CousreWork\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.csproj.AssemblyReference.cache
+L:\ITStep\LECRURE\Family Budget\CousreWork\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.csproj.SuggestedBindingRedirects.cache
+L:\ITStep\LECRURE\Family Budget\CousreWork\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.Properties.Resources.resources
+L:\ITStep\LECRURE\Family Budget\CousreWork\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.csproj.GenerateResource.cache
+L:\ITStep\LECRURE\Family Budget\CousreWork\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.csproj.CoreCompileInputs.cache
+L:\ITStep\LECRURE\Family Budget\CousreWork\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.csproj.CopyComplete
+L:\ITStep\LECRURE\Family Budget\CousreWork\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.exe
+L:\ITStep\LECRURE\Family Budget\CousreWork\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.pdb
+L:\ITStep\LECRURE\Family Budget\CousreWork\WFGunaFamilyWallet\WFGunaFamilyWallet\bin\Debug\EntityFramework.dll
+L:\ITStep\LECRURE\Family Budget\CousreWork\WFGunaFamilyWallet\WFGunaFamilyWallet\bin\Debug\EntityFramework.SqlServer.dll
+L:\ITStep\LECRURE\Family Budget\CousreWork\WFGunaFamilyWallet\WFGunaFamilyWallet\bin\Debug\EntityFramework.xml
+L:\ITStep\LECRURE\Family Budget\CousreWork\WFGunaFamilyWallet\WFGunaFamilyWallet\bin\Debug\EntityFramework.SqlServer.xml
+L:\ITStep\LECRURE\Family Budget\CousreWork\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.Controls.UCHistory.resources
+L:\ITStep\LECRURE\Family Budget\CousreWork\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.Controls.UCSettings.resources
+L:\ITStep\LECRURE\Family Budget\CousreWork\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.Controls.UCStatistics.resources
+L:\ITStep\LECRURE\Family Budget\CousreWork\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.Controls.UCSupport.resources
+L:\ITStep\LECRURE\Family Budget\CousreWork\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.Controls.UCTransaction.resources
+L:\ITStep\LECRURE\Family Budget\CousreWork\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.Controls.UCWallet.resources
+L:\ITStep\LECRURE\Family Budget\CousreWork\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.ChildForm.AddCategoryForm.resources
+L:\ITStep\LECRURE\Family Budget\CousreWork\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.MainForm.resources
+L:\ITStep\2023\LECRURE\Family Budget\CousreWork\WFGunaFamilyWallet\WFGunaFamilyWallet\bin\Debug\WFGunaFamilyWallet.exe.config
+L:\ITStep\2023\LECRURE\Family Budget\CousreWork\WFGunaFamilyWallet\WFGunaFamilyWallet\bin\Debug\WFGunaFamilyWallet.exe
+L:\ITStep\2023\LECRURE\Family Budget\CousreWork\WFGunaFamilyWallet\WFGunaFamilyWallet\bin\Debug\WFGunaFamilyWallet.pdb
+L:\ITStep\2023\LECRURE\Family Budget\CousreWork\WFGunaFamilyWallet\WFGunaFamilyWallet\bin\Debug\EntityFramework.dll
+L:\ITStep\2023\LECRURE\Family Budget\CousreWork\WFGunaFamilyWallet\WFGunaFamilyWallet\bin\Debug\EntityFramework.SqlServer.dll
+L:\ITStep\2023\LECRURE\Family Budget\CousreWork\WFGunaFamilyWallet\WFGunaFamilyWallet\bin\Debug\EntityFramework.xml
+L:\ITStep\2023\LECRURE\Family Budget\CousreWork\WFGunaFamilyWallet\WFGunaFamilyWallet\bin\Debug\EntityFramework.SqlServer.xml
+L:\ITStep\2023\LECRURE\Family Budget\CousreWork\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.csproj.AssemblyReference.cache
+L:\ITStep\2023\LECRURE\Family Budget\CousreWork\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.csproj.SuggestedBindingRedirects.cache
+L:\ITStep\2023\LECRURE\Family Budget\CousreWork\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.ChildForm.AddCategoryForm.resources
+L:\ITStep\2023\LECRURE\Family Budget\CousreWork\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.Controls.UCSettings.resources
+L:\ITStep\2023\LECRURE\Family Budget\CousreWork\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.Controls.UCStatistics.resources
+L:\ITStep\2023\LECRURE\Family Budget\CousreWork\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.Controls.UCSupport.resources
+L:\ITStep\2023\LECRURE\Family Budget\CousreWork\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.Controls.UCTransaction.resources
+L:\ITStep\2023\LECRURE\Family Budget\CousreWork\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.Controls.UCWallet.resources
+L:\ITStep\2023\LECRURE\Family Budget\CousreWork\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.MainForm.resources
+L:\ITStep\2023\LECRURE\Family Budget\CousreWork\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.Properties.Resources.resources
+L:\ITStep\2023\LECRURE\Family Budget\CousreWork\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.csproj.GenerateResource.cache
+L:\ITStep\2023\LECRURE\Family Budget\CousreWork\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.csproj.CoreCompileInputs.cache
+L:\ITStep\2023\LECRURE\Family Budget\CousreWork\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.csproj.CopyComplete
+L:\ITStep\2023\LECRURE\Family Budget\CousreWork\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.exe
+L:\ITStep\2023\LECRURE\Family Budget\CousreWork\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.pdb
+D:\WFGunaFamilyWallet\WFGunaFamilyWallet\bin\Debug\WFGunaFamilyWallet.exe.config
+D:\WFGunaFamilyWallet\WFGunaFamilyWallet\bin\Debug\WFGunaFamilyWallet.exe
+D:\WFGunaFamilyWallet\WFGunaFamilyWallet\bin\Debug\WFGunaFamilyWallet.pdb
+D:\WFGunaFamilyWallet\WFGunaFamilyWallet\bin\Debug\EntityFramework.dll
+D:\WFGunaFamilyWallet\WFGunaFamilyWallet\bin\Debug\EntityFramework.SqlServer.dll
+D:\WFGunaFamilyWallet\WFGunaFamilyWallet\bin\Debug\EntityFramework.xml
+D:\WFGunaFamilyWallet\WFGunaFamilyWallet\bin\Debug\EntityFramework.SqlServer.xml
+D:\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.csproj.AssemblyReference.cache
+D:\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.ChildForm.AddCategoryForm.resources
+D:\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.Controls.UCSettings.resources
+D:\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.Controls.UCStatistics.resources
+D:\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.Controls.UCSupport.resources
+D:\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.Controls.UCTransaction.resources
+D:\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.Controls.UCWallet.resources
+D:\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.MainForm.resources
+D:\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.Properties.Resources.resources
+D:\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.csproj.GenerateResource.cache
+D:\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.csproj.CoreCompileInputs.cache
+D:\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.csproj.CopyComplete
+D:\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.exe
+D:\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.pdb
+D:\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.ChildForm.AddUserForm.resources
+L:\ITStep\CourseWork\WFGunaFamilyWallet\WFGunaFamilyWallet\bin\Debug\WFGunaFamilyWallet.exe.config
+L:\ITStep\CourseWork\WFGunaFamilyWallet\WFGunaFamilyWallet\bin\Debug\WFGunaFamilyWallet.exe
+L:\ITStep\CourseWork\WFGunaFamilyWallet\WFGunaFamilyWallet\bin\Debug\WFGunaFamilyWallet.pdb
+L:\ITStep\CourseWork\WFGunaFamilyWallet\WFGunaFamilyWallet\bin\Debug\EntityFramework.dll
+L:\ITStep\CourseWork\WFGunaFamilyWallet\WFGunaFamilyWallet\bin\Debug\EntityFramework.SqlServer.dll
+L:\ITStep\CourseWork\WFGunaFamilyWallet\WFGunaFamilyWallet\bin\Debug\EntityFramework.xml
+L:\ITStep\CourseWork\WFGunaFamilyWallet\WFGunaFamilyWallet\bin\Debug\EntityFramework.SqlServer.xml
+L:\ITStep\CourseWork\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.csproj.AssemblyReference.cache
+L:\ITStep\CourseWork\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.csproj.SuggestedBindingRedirects.cache
+L:\ITStep\CourseWork\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.Controls.UCSettings.resources
+L:\ITStep\CourseWork\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.Controls.UCStatistics.resources
+L:\ITStep\CourseWork\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.Controls.UCSupport.resources
+L:\ITStep\CourseWork\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.Controls.UCWallet.resources
+L:\ITStep\CourseWork\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.MainForm.resources
+L:\ITStep\CourseWork\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.Properties.Resources.resources
+L:\ITStep\CourseWork\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.csproj.GenerateResource.cache
+L:\ITStep\CourseWork\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.csproj.CoreCompileInputs.cache
+L:\ITStep\CourseWork\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.csproj.CopyComplete
+L:\ITStep\CourseWork\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.exe
+L:\ITStep\CourseWork\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.pdb
+L:\ITStep\CourseWork\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.Controls.UCTransactions.resources
+L:\ITStep\CourseWork\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.ChildForm.AddFormCategory.resources
+L:\ITStep\CourseWork\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.ChildForm.AddFormUser.resources
+L:\ITStep\CourseWork\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.ChildForm.FormRegister.resources
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWallet\WFGunaFamilyWallet\bin\Debug\WFGunaFamilyWallet.exe.config
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWallet\WFGunaFamilyWallet\bin\Debug\WFGunaFamilyWallet.exe
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWallet\WFGunaFamilyWallet\bin\Debug\WFGunaFamilyWallet.pdb
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWallet\WFGunaFamilyWallet\bin\Debug\EntityFramework.dll
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWallet\WFGunaFamilyWallet\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWallet\WFGunaFamilyWallet\bin\Debug\EntityFramework.xml
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWallet\WFGunaFamilyWallet\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.csproj.AssemblyReference.cache
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.ChildForm.AddFormCategory.resources
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.ChildForm.AddFormUser.resources
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.ChildForm.FormRegister.resources
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.Controls.UCSettings.resources
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.Controls.UCStatistics.resources
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.Controls.UCSupport.resources
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.Controls.UCTransactions.resources
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.Controls.UCWallet.resources
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.MainForm.resources
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.Properties.Resources.resources
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.csproj.GenerateResource.cache
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.csproj.CoreCompileInputs.cache
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.csproj.CopyComplete
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.exe
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWallet\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.pdb
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletломана\WFGunaFamilyWallet\bin\Debug\WFGunaFamilyWallet.exe.config
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletломана\WFGunaFamilyWallet\bin\Debug\WFGunaFamilyWallet.exe
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletломана\WFGunaFamilyWallet\bin\Debug\WFGunaFamilyWallet.pdb
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletломана\WFGunaFamilyWallet\bin\Debug\EntityFramework.dll
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletломана\WFGunaFamilyWallet\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletломана\WFGunaFamilyWallet\bin\Debug\EntityFramework.xml
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletломана\WFGunaFamilyWallet\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletломана\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.csproj.AssemblyReference.cache
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletломана\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.ChildForm.AddFormCategory.resources
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletломана\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.ChildForm.AddFormUser.resources
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletломана\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.ChildForm.FormRegister.resources
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletломана\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.Controls.UCSettings.resources
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletломана\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.Controls.UCStatistics.resources
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletломана\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.Controls.UCSupport.resources
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletломана\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.Controls.UCTransactions.resources
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletломана\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.Controls.UCWallet.resources
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletломана\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.MainForm.resources
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletломана\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.Properties.Resources.resources
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletломана\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.csproj.GenerateResource.cache
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletломана\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.csproj.CoreCompileInputs.cache
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletломана\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.csproj.CopyComplete
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletломана\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.exe
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletломана\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.pdb
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletсделана\WFGunaFamilyWallet\bin\Debug\WFGunaFamilyWallet.exe.config
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletсделана\WFGunaFamilyWallet\bin\Debug\WFGunaFamilyWallet.exe
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletсделана\WFGunaFamilyWallet\bin\Debug\WFGunaFamilyWallet.pdb
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletсделана\WFGunaFamilyWallet\bin\Debug\EntityFramework.dll
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletсделана\WFGunaFamilyWallet\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletсделана\WFGunaFamilyWallet\bin\Debug\EntityFramework.xml
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletсделана\WFGunaFamilyWallet\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletсделана\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.csproj.AssemblyReference.cache
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletсделана\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.ChildForm.AddFormCategory.resources
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletсделана\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.ChildForm.AddFormUser.resources
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletсделана\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.ChildForm.FormRegister.resources
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletсделана\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.Controls.UCSettings.resources
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletсделана\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.Controls.UCStatistics.resources
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletсделана\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.Controls.UCSupport.resources
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletсделана\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.Controls.UCTransactions.resources
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletсделана\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.Controls.UCWallet.resources
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletсделана\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.MainForm.resources
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletсделана\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.Properties.Resources.resources
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletсделана\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.csproj.GenerateResource.cache
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletсделана\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.csproj.CoreCompileInputs.cache
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletсделана\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.csproj.CopyComplete
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletсделана\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.exe
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletсделана\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.pdb
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletсделана с базой\WFGunaFamilyWallet\bin\Debug\WFGunaFamilyWallet.exe.config
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletсделана с базой\WFGunaFamilyWallet\bin\Debug\WFGunaFamilyWallet.exe
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletсделана с базой\WFGunaFamilyWallet\bin\Debug\WFGunaFamilyWallet.pdb
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletсделана с базой\WFGunaFamilyWallet\bin\Debug\EntityFramework.dll
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletсделана с базой\WFGunaFamilyWallet\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletсделана с базой\WFGunaFamilyWallet\bin\Debug\EntityFramework.xml
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletсделана с базой\WFGunaFamilyWallet\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletсделана с базой\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.csproj.AssemblyReference.cache
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletсделана с базой\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.ChildForm.AddFormCategory.resources
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletсделана с базой\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.ChildForm.AddFormUser.resources
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletсделана с базой\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.ChildForm.FormRegister.resources
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletсделана с базой\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.Controls.UCSettings.resources
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletсделана с базой\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.Controls.UCStatistics.resources
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletсделана с базой\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.Controls.UCSupport.resources
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletсделана с базой\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.Controls.UCTransactions.resources
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletсделана с базой\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.Controls.UCWallet.resources
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletсделана с базой\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.MainForm.resources
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletсделана с базой\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.Properties.Resources.resources
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletсделана с базой\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.csproj.GenerateResource.cache
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletсделана с базой\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.csproj.CoreCompileInputs.cache
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletсделана с базой\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.csproj.CopyComplete
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletсделана с базой\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.exe
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletсделана с базой\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.pdb
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletсделана с базой\WFGunaFamilyWallet\bin\Debug\LiveCharts.dll
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletсделана с базой\WFGunaFamilyWallet\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletсделана с базой\WFGunaFamilyWallet\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletсделана с базой\WFGunaFamilyWallet\bin\Debug\LiveCharts.pdb
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletсделана с базой\WFGunaFamilyWallet\bin\Debug\LiveCharts.xml
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletсделана с базой\WFGunaFamilyWallet\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletсделана с базой\WFGunaFamilyWallet\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletсделана с базой\WFGunaFamilyWallet\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\10051\OneDrive\Документи\WFGunaFamilyWalletсделана с базой\WFGunaFamilyWallet\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\10051\OneDrive\Документи\FamilyWalletсделана с базой\WFGunaFamilyWallet\bin\Debug\WFGunaFamilyWallet.exe.config
+C:\Users\10051\OneDrive\Документи\FamilyWalletсделана с базой\WFGunaFamilyWallet\bin\Debug\WFGunaFamilyWallet.exe
+C:\Users\10051\OneDrive\Документи\FamilyWalletсделана с базой\WFGunaFamilyWallet\bin\Debug\WFGunaFamilyWallet.pdb
+C:\Users\10051\OneDrive\Документи\FamilyWalletсделана с базой\WFGunaFamilyWallet\bin\Debug\EntityFramework.dll
+C:\Users\10051\OneDrive\Документи\FamilyWalletсделана с базой\WFGunaFamilyWallet\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\10051\OneDrive\Документи\FamilyWalletсделана с базой\WFGunaFamilyWallet\bin\Debug\LiveCharts.dll
+C:\Users\10051\OneDrive\Документи\FamilyWalletсделана с базой\WFGunaFamilyWallet\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\10051\OneDrive\Документи\FamilyWalletсделана с базой\WFGunaFamilyWallet\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\10051\OneDrive\Документи\FamilyWalletсделана с базой\WFGunaFamilyWallet\bin\Debug\EntityFramework.xml
+C:\Users\10051\OneDrive\Документи\FamilyWalletсделана с базой\WFGunaFamilyWallet\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\10051\OneDrive\Документи\FamilyWalletсделана с базой\WFGunaFamilyWallet\bin\Debug\LiveCharts.pdb
+C:\Users\10051\OneDrive\Документи\FamilyWalletсделана с базой\WFGunaFamilyWallet\bin\Debug\LiveCharts.xml
+C:\Users\10051\OneDrive\Документи\FamilyWalletсделана с базой\WFGunaFamilyWallet\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\10051\OneDrive\Документи\FamilyWalletсделана с базой\WFGunaFamilyWallet\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\10051\OneDrive\Документи\FamilyWalletсделана с базой\WFGunaFamilyWallet\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\10051\OneDrive\Документи\FamilyWalletсделана с базой\WFGunaFamilyWallet\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\10051\OneDrive\Документи\FamilyWalletсделана с базой\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.csproj.AssemblyReference.cache
+C:\Users\10051\OneDrive\Документи\FamilyWalletсделана с базой\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.ChildForm.AddFormCategory.resources
+C:\Users\10051\OneDrive\Документи\FamilyWalletсделана с базой\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.ChildForm.AddFormUser.resources
+C:\Users\10051\OneDrive\Документи\FamilyWalletсделана с базой\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.ChildForm.FormRegister.resources
+C:\Users\10051\OneDrive\Документи\FamilyWalletсделана с базой\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.Controls.UCSettings.resources
+C:\Users\10051\OneDrive\Документи\FamilyWalletсделана с базой\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.Controls.UCStatistics.resources
+C:\Users\10051\OneDrive\Документи\FamilyWalletсделана с базой\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.Controls.UCSupport.resources
+C:\Users\10051\OneDrive\Документи\FamilyWalletсделана с базой\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.Controls.UCTransactions.resources
+C:\Users\10051\OneDrive\Документи\FamilyWalletсделана с базой\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.Controls.UCWallet.resources
+C:\Users\10051\OneDrive\Документи\FamilyWalletсделана с базой\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.MainForm.resources
+C:\Users\10051\OneDrive\Документи\FamilyWalletсделана с базой\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.Properties.Resources.resources
+C:\Users\10051\OneDrive\Документи\FamilyWalletсделана с базой\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.csproj.GenerateResource.cache
+C:\Users\10051\OneDrive\Документи\FamilyWalletсделана с базой\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.csproj.CoreCompileInputs.cache
+C:\Users\10051\OneDrive\Документи\FamilyWalletсделана с базой\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.csproj.CopyComplete
+C:\Users\10051\OneDrive\Документи\FamilyWalletсделана с базой\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.exe
+C:\Users\10051\OneDrive\Документи\FamilyWalletсделана с базой\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.pdb
+C:\Users\10051\OneDrive\Документи\FamilyWalletсделана с базой ++\WFGunaFamilyWallet\bin\Debug\WFGunaFamilyWallet.exe.config
+C:\Users\10051\OneDrive\Документи\FamilyWalletсделана с базой ++\WFGunaFamilyWallet\bin\Debug\WFGunaFamilyWallet.exe
+C:\Users\10051\OneDrive\Документи\FamilyWalletсделана с базой ++\WFGunaFamilyWallet\bin\Debug\WFGunaFamilyWallet.pdb
+C:\Users\10051\OneDrive\Документи\FamilyWalletсделана с базой ++\WFGunaFamilyWallet\bin\Debug\EntityFramework.dll
+C:\Users\10051\OneDrive\Документи\FamilyWalletсделана с базой ++\WFGunaFamilyWallet\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\10051\OneDrive\Документи\FamilyWalletсделана с базой ++\WFGunaFamilyWallet\bin\Debug\LiveCharts.dll
+C:\Users\10051\OneDrive\Документи\FamilyWalletсделана с базой ++\WFGunaFamilyWallet\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\10051\OneDrive\Документи\FamilyWalletсделана с базой ++\WFGunaFamilyWallet\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\10051\OneDrive\Документи\FamilyWalletсделана с базой ++\WFGunaFamilyWallet\bin\Debug\EntityFramework.xml
+C:\Users\10051\OneDrive\Документи\FamilyWalletсделана с базой ++\WFGunaFamilyWallet\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\10051\OneDrive\Документи\FamilyWalletсделана с базой ++\WFGunaFamilyWallet\bin\Debug\LiveCharts.pdb
+C:\Users\10051\OneDrive\Документи\FamilyWalletсделана с базой ++\WFGunaFamilyWallet\bin\Debug\LiveCharts.xml
+C:\Users\10051\OneDrive\Документи\FamilyWalletсделана с базой ++\WFGunaFamilyWallet\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\10051\OneDrive\Документи\FamilyWalletсделана с базой ++\WFGunaFamilyWallet\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\10051\OneDrive\Документи\FamilyWalletсделана с базой ++\WFGunaFamilyWallet\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\10051\OneDrive\Документи\FamilyWalletсделана с базой ++\WFGunaFamilyWallet\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\10051\OneDrive\Документи\FamilyWalletсделана с базой ++\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.csproj.AssemblyReference.cache
+C:\Users\10051\OneDrive\Документи\FamilyWalletсделана с базой ++\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.ChildForm.AddFormCategory.resources
+C:\Users\10051\OneDrive\Документи\FamilyWalletсделана с базой ++\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.ChildForm.AddFormUser.resources
+C:\Users\10051\OneDrive\Документи\FamilyWalletсделана с базой ++\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.ChildForm.FormRegister.resources
+C:\Users\10051\OneDrive\Документи\FamilyWalletсделана с базой ++\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.Controls.UCSettings.resources
+C:\Users\10051\OneDrive\Документи\FamilyWalletсделана с базой ++\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.Controls.UCStatistics.resources
+C:\Users\10051\OneDrive\Документи\FamilyWalletсделана с базой ++\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.Controls.UCSupport.resources
+C:\Users\10051\OneDrive\Документи\FamilyWalletсделана с базой ++\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.Controls.UCTransactions.resources
+C:\Users\10051\OneDrive\Документи\FamilyWalletсделана с базой ++\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.Controls.UCWallet.resources
+C:\Users\10051\OneDrive\Документи\FamilyWalletсделана с базой ++\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.MainForm.resources
+C:\Users\10051\OneDrive\Документи\FamilyWalletсделана с базой ++\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.Properties.Resources.resources
+C:\Users\10051\OneDrive\Документи\FamilyWalletсделана с базой ++\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.csproj.GenerateResource.cache
+C:\Users\10051\OneDrive\Документи\FamilyWalletсделана с базой ++\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.csproj.CoreCompileInputs.cache
+C:\Users\10051\OneDrive\Документи\FamilyWalletсделана с базой ++\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.csproj.CopyComplete
+C:\Users\10051\OneDrive\Документи\FamilyWalletсделана с базой ++\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.exe
+C:\Users\10051\OneDrive\Документи\FamilyWalletсделана с базой ++\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.pdb
+C:\Users\10051\OneDrive\Документи\FamilyWallet  ++\WFGunaFamilyWallet\bin\Debug\WFGunaFamilyWallet.exe.config
+C:\Users\10051\OneDrive\Документи\FamilyWallet  ++\WFGunaFamilyWallet\bin\Debug\WFGunaFamilyWallet.exe
+C:\Users\10051\OneDrive\Документи\FamilyWallet  ++\WFGunaFamilyWallet\bin\Debug\WFGunaFamilyWallet.pdb
+C:\Users\10051\OneDrive\Документи\FamilyWallet  ++\WFGunaFamilyWallet\bin\Debug\EntityFramework.dll
+C:\Users\10051\OneDrive\Документи\FamilyWallet  ++\WFGunaFamilyWallet\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\10051\OneDrive\Документи\FamilyWallet  ++\WFGunaFamilyWallet\bin\Debug\LiveCharts.dll
+C:\Users\10051\OneDrive\Документи\FamilyWallet  ++\WFGunaFamilyWallet\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\10051\OneDrive\Документи\FamilyWallet  ++\WFGunaFamilyWallet\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\10051\OneDrive\Документи\FamilyWallet  ++\WFGunaFamilyWallet\bin\Debug\EntityFramework.xml
+C:\Users\10051\OneDrive\Документи\FamilyWallet  ++\WFGunaFamilyWallet\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\10051\OneDrive\Документи\FamilyWallet  ++\WFGunaFamilyWallet\bin\Debug\LiveCharts.pdb
+C:\Users\10051\OneDrive\Документи\FamilyWallet  ++\WFGunaFamilyWallet\bin\Debug\LiveCharts.xml
+C:\Users\10051\OneDrive\Документи\FamilyWallet  ++\WFGunaFamilyWallet\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\10051\OneDrive\Документи\FamilyWallet  ++\WFGunaFamilyWallet\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\10051\OneDrive\Документи\FamilyWallet  ++\WFGunaFamilyWallet\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\10051\OneDrive\Документи\FamilyWallet  ++\WFGunaFamilyWallet\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\10051\OneDrive\Документи\FamilyWallet  ++\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.csproj.AssemblyReference.cache
+C:\Users\10051\OneDrive\Документи\FamilyWallet  ++\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.ChildForm.AddFormCategory.resources
+C:\Users\10051\OneDrive\Документи\FamilyWallet  ++\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.ChildForm.AddFormUser.resources
+C:\Users\10051\OneDrive\Документи\FamilyWallet  ++\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.ChildForm.FormRegister.resources
+C:\Users\10051\OneDrive\Документи\FamilyWallet  ++\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.Controls.UCSettings.resources
+C:\Users\10051\OneDrive\Документи\FamilyWallet  ++\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.Controls.UCStatistics.resources
+C:\Users\10051\OneDrive\Документи\FamilyWallet  ++\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.Controls.UCSupport.resources
+C:\Users\10051\OneDrive\Документи\FamilyWallet  ++\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.Controls.UCTransactions.resources
+C:\Users\10051\OneDrive\Документи\FamilyWallet  ++\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.Controls.UCWallet.resources
+C:\Users\10051\OneDrive\Документи\FamilyWallet  ++\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.MainForm.resources
+C:\Users\10051\OneDrive\Документи\FamilyWallet  ++\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.Properties.Resources.resources
+C:\Users\10051\OneDrive\Документи\FamilyWallet  ++\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.csproj.GenerateResource.cache
+C:\Users\10051\OneDrive\Документи\FamilyWallet  ++\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.csproj.CoreCompileInputs.cache
+C:\Users\10051\OneDrive\Документи\FamilyWallet  ++\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.csproj.CopyComplete
+C:\Users\10051\OneDrive\Документи\FamilyWallet  ++\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.exe
+C:\Users\10051\OneDrive\Документи\FamilyWallet  ++\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.pdb
+C:\Users\10051\OneDrive\Документи\FamilyWallet  ++\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.ChildForm.EditFormTransaction.resources
+L:\ITStep\CourseWork\FamilyWalletGood\FamilyWalletGood\WFGunaFamilyWallet\bin\Debug\WFGunaFamilyWallet.exe.config
+L:\ITStep\CourseWork\FamilyWalletGood\FamilyWalletGood\WFGunaFamilyWallet\bin\Debug\WFGunaFamilyWallet.exe
+L:\ITStep\CourseWork\FamilyWalletGood\FamilyWalletGood\WFGunaFamilyWallet\bin\Debug\WFGunaFamilyWallet.pdb
+L:\ITStep\CourseWork\FamilyWalletGood\FamilyWalletGood\WFGunaFamilyWallet\bin\Debug\EntityFramework.dll
+L:\ITStep\CourseWork\FamilyWalletGood\FamilyWalletGood\WFGunaFamilyWallet\bin\Debug\EntityFramework.SqlServer.dll
+L:\ITStep\CourseWork\FamilyWalletGood\FamilyWalletGood\WFGunaFamilyWallet\bin\Debug\LiveCharts.dll
+L:\ITStep\CourseWork\FamilyWalletGood\FamilyWalletGood\WFGunaFamilyWallet\bin\Debug\LiveCharts.WinForms.dll
+L:\ITStep\CourseWork\FamilyWalletGood\FamilyWalletGood\WFGunaFamilyWallet\bin\Debug\LiveCharts.Wpf.dll
+L:\ITStep\CourseWork\FamilyWalletGood\FamilyWalletGood\WFGunaFamilyWallet\bin\Debug\EntityFramework.xml
+L:\ITStep\CourseWork\FamilyWalletGood\FamilyWalletGood\WFGunaFamilyWallet\bin\Debug\EntityFramework.SqlServer.xml
+L:\ITStep\CourseWork\FamilyWalletGood\FamilyWalletGood\WFGunaFamilyWallet\bin\Debug\LiveCharts.pdb
+L:\ITStep\CourseWork\FamilyWalletGood\FamilyWalletGood\WFGunaFamilyWallet\bin\Debug\LiveCharts.xml
+L:\ITStep\CourseWork\FamilyWalletGood\FamilyWalletGood\WFGunaFamilyWallet\bin\Debug\LiveCharts.WinForms.pdb
+L:\ITStep\CourseWork\FamilyWalletGood\FamilyWalletGood\WFGunaFamilyWallet\bin\Debug\LiveCharts.WinForms.xml
+L:\ITStep\CourseWork\FamilyWalletGood\FamilyWalletGood\WFGunaFamilyWallet\bin\Debug\LiveCharts.Wpf.pdb
+L:\ITStep\CourseWork\FamilyWalletGood\FamilyWalletGood\WFGunaFamilyWallet\bin\Debug\LiveCharts.Wpf.xml
+L:\ITStep\CourseWork\FamilyWalletGood\FamilyWalletGood\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.csproj.AssemblyReference.cache
+L:\ITStep\CourseWork\FamilyWalletGood\FamilyWalletGood\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.ChildForm.AddFormCategory.resources
+L:\ITStep\CourseWork\FamilyWalletGood\FamilyWalletGood\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.ChildForm.AddFormUser.resources
+L:\ITStep\CourseWork\FamilyWalletGood\FamilyWalletGood\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.ChildForm.EditFormTransaction.resources
+L:\ITStep\CourseWork\FamilyWalletGood\FamilyWalletGood\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.ChildForm.FormRegister.resources
+L:\ITStep\CourseWork\FamilyWalletGood\FamilyWalletGood\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.Controls.UCSettings.resources
+L:\ITStep\CourseWork\FamilyWalletGood\FamilyWalletGood\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.Controls.UCStatistics.resources
+L:\ITStep\CourseWork\FamilyWalletGood\FamilyWalletGood\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.Controls.UCSupport.resources
+L:\ITStep\CourseWork\FamilyWalletGood\FamilyWalletGood\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.Controls.UCTransactions.resources
+L:\ITStep\CourseWork\FamilyWalletGood\FamilyWalletGood\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.MainForm.resources
+L:\ITStep\CourseWork\FamilyWalletGood\FamilyWalletGood\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.Properties.Resources.resources
+L:\ITStep\CourseWork\FamilyWalletGood\FamilyWalletGood\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.csproj.GenerateResource.cache
+L:\ITStep\CourseWork\FamilyWalletGood\FamilyWalletGood\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.csproj.CoreCompileInputs.cache
+L:\ITStep\CourseWork\FamilyWalletGood\FamilyWalletGood\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.csproj.CopyComplete
+L:\ITStep\CourseWork\FamilyWalletGood\FamilyWalletGood\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.exe
+L:\ITStep\CourseWork\FamilyWalletGood\FamilyWalletGood\WFGunaFamilyWallet\obj\Debug\WFGunaFamilyWallet.pdb
